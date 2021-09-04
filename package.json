@@ -5,13 +5,13 @@
   "content_type": "SN|Theme",
   "layerable": true,
   "area": "themes",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "main": "theme.css",
   "sn": {
     "main": "theme.css"
   },
   "url": "https://mijofr.github.io/sn-myfont/theme.css",
-  "download_url": "https://mijofr.github.io/sn-myfont/v1.1.4.zip",  
+  "download_url": "https://mijofr.github.io/sn-myfont/v1.1.5.zip",  
   "dock_icon": {
     "type": "circle",
     "background_color": "#086886",
