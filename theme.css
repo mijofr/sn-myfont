@@ -1,0 +1,8 @@
+.CodeMirror {
+	font-size: 14px;
+	font-family: "Roboto Mono";
+	line-height: 1.1;
+}
+.CodeMirror pre.CodeMirror-line {
+	line-height: 1.1;
+}
